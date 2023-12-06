@@ -11,6 +11,7 @@
 	main{
 		padding-top: 20px;
 		background-color: #191724;
+		border-radius: 0px 0px 25px 25px;
 	}
 
 }
@@ -58,6 +59,8 @@
 	padding: 25px;
 	padding-top: 15px;
 	padding-bottom: 15px;
+
+	border-radius: 25px 25px 0px 0px;
 
 	.goto{
 		flex-grow: 1;
